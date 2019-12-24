@@ -1,5 +1,5 @@
 /**
-  *
+  * @TODO: Add more input validation
   */
  (function(){
   var nato = (function() {
